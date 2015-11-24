@@ -1,0 +1,2 @@
+# alljs
+npm install alljs
